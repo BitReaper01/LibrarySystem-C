@@ -1,2 +1,15 @@
-# LibrarySystem-C
-Library Management System written in C language. Includes file handling for permanent storage, password-protected login system (Admin, User, New User), and book issue/return with quantity updates.
+# Library Management System (C)
+
+This is my first project written in C language — a **Library Management System**.  
+The program uses file handling to provide permanent storage and has a simple login system.
+
+---
+
+## 📌 Features
+- File handling using binary files for permanent storage
+- Password-protected login system:
+  - Admin login
+  - User login
+  - New user registration
+- Book issue and return system
+- Book quantity updates after issue/return
